@@ -1,4 +1,4 @@
-//Calendar (Full Program)
+//Console Calendar Program
 
 #include <cstdio>
 
@@ -210,8 +210,8 @@ int main()
     int yyyy;
     int mod7;
 
-    printf("\n\n\t-----\tCalendar Program\t\t-----");
-    printf("\n\t-----\tdeveloped by Khaled Hasan Rony\t-----");
+    printf("\n\n\t-----\tConsole Calendar Program\t-----");
+    printf("\n\t-----\tDeveloped by Khaled Hasan Rony\t-----");
 
     printf("\n\n\nEnter year (in digits): ");
     scanf("%d", &yyyy);
